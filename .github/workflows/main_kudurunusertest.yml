@@ -59,4 +59,4 @@ jobs:
           app-name: 'kudurunusertest'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B513F9FF3D3F4C22B11E41EE3C27DB88 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A95F6859E52E447A920EEE67D1E43BEE }}
