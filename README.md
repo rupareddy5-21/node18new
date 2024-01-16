@@ -1,1 +1,1 @@
-kudu run user test 2
+kudu run user test 
