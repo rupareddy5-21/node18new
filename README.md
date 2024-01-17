@@ -1,1 +1,1 @@
- updated kudu run user in scm site test
+ updated kudu run user in scm site testing
